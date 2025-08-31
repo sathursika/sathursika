@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👩‍💻 Sathursika | Front-End + UI/UX
 
-<!--
-**sathursika/sathursika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi! I design & code smooth digital experiences.  
+Currently a Software Engineer Trainee — React, Angular, Tailwind, and Figma are my happy place.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Quick Facts
+- 🎨 UI/UX Designer → Figma, wireframes, prototyping, usability  
+- 💻 Front-End Dev → React, Angular, Next.js, Tailwind  
+- 🌱 Learning → accessibility & design systems  
+- 📍 Based in Colombo, Sri Lanka  
+
+---
+
+## 🛠 Skills Snapshot
+**Code:** HTML • CSS/SCSS • JS/TS • React • Angular • Next.js • Tailwind  
+**Design:** Figma • Wireframing • Prototyping • User Testing  
+**Workflow:** Git • GitHub • GitLab  
+
+---
+
+## 📬 Reach Out
+- ✉️ [Email me](mailto:sathursikame@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sathursika-manokararajah-3b40ba268/)  
+- 🎨 [Behance](https://www.behance.net/sathurssathurs)  
+- 👩‍💻 [GitHub](https://github.com/sathursika)  
+
+---
+✨ *Always designing. Always learning.*  
