@@ -1,7 +1,7 @@
 # 👩‍💻 Sathursika | Front-End + UI/UX
 
 ✨ Hi! I design & code smooth digital experiences.  
-Currently a Software Engineer Trainee — React, Angular, Tailwind, and Figma are my happy place.  
+Software Engineer & UI UX designer — React, Angular, Tailwind, and Figma are my happy place.  
 
 ---
 
